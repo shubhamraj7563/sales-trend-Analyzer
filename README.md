@@ -17,4 +17,4 @@ sales trend analyzer
 ⚙️ Technical Skills: Leveraged Fact Tables, Dim Tables, and Measures to build robust data models, ensuring accurate filtering and drill-down analysis.
 
 🚀 Business Impact: Delivered actionable insights for sales strategy, discount planning, and product portfolio optimization.
-
+![image alt](https://github.com/shubhamraj7563/sales-trend-Analyzer/blob/cb00c2d6ecb30153ec1579af201d6c3687ee2f8d/Screenshot%202026-05-02%20123100.jpg)
